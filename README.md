@@ -4,8 +4,7 @@
         <a href="https://github.com/Zartix0" class="no-underline Link--primary">Zartix0</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
 
-    </div>
-    <article class="int</h1>
+    std::cout<<"Hey, Welcome"<<std::endl;
 <p dir="auto"><strong><code>contact.zartix@gmail.com></p>
 <p dir="auto">I am a 16 year old student passionate about everything related to digital, the future, the modernity. Currently, I "speak" C++.
 I am open to non-profit projects for everything related to c++, non-profit.
