@@ -5,7 +5,7 @@
       </div>
 
     std::cout<<"Hey, Welcome"<<std::endl;
-<p dir="auto"><strong><code>contact.zartix@gmail.com></p>
+<p dir="auto"><strong><code>contact.zartix@gmail.com</p>
 <p dir="auto">I am a 16 year old student passionate about everything related to digital, the future, the modernity. Currently, I "speak" C++.
 I am open to non-profit projects for everything related to c++, non-profit.
    <p align="left" dir="auto">
